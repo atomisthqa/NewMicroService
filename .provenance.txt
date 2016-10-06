@@ -1,0 +1,24 @@
+# generator info
+name: Spring Boot Rest Microservice
+group: atomist-project-templates
+artifact: spring-rest-service
+version: 3.0.1
+
+# backing git repo
+repo: git@github.com:atomist-project-templates/spring-rest-service.git
+branch: master
+sha: 90f400f37a8d104e3f764bc98bf0b430b07152f1
+
+# parameter values
+description: My new project
+root_package: com.myorg
+team-id: T1L0VDKJP
+service_class_name: MyService
+user-id: U1L8JQMTJ
+group_id: mygroup
+org: atomisthqa
+version: 0.0.1-SNAPSHOT
+artifact_id: myartifact
+project_name: NewMicroService
+visibility: public
+
